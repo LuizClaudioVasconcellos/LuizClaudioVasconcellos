@@ -36,10 +36,8 @@ Sou desenvolvedor Back-End, mas também tenho conhecimento em Front-End. Tenho u
   <a href="https://github.com/LuizClaudioVasconcellos">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizClaudioVasconcellos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizClaudioVasconcellos&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ##
-  
-<div>
+
+   
+   
   ![Snake animation](https://github.com/LuizClaudioVasconcellos/LuizClaudioVasconcellos/blob/output/github-contribution-grid-snake.svg)
 </div>
