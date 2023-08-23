@@ -1,16 +1,30 @@
-### 👋 Olá! Me chamo Luiz Claudio.
-Sou desenvolvedor Back-End, mas também tenho conhecimento em Front-End. Tenho um ano de experiencia em desenvolvimento web, e muitos anos de estudo em informática. Gosto         sempre de estar me atualizando sobre as tecnologias. Atualmente ando estudando NodeJS, JavaScript, TypeScript, React.
+# 👋 Olá! Me chamo Luiz Claudio.
 
----
+## 💼 Sou Desenvolvedor Full Stack
 
- <div>
-  <a href="https://www.linkedin.com/in/luiz-claudio-vasconcellos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:luizvasconcellosjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://api.whatsapp.com/send/?phone=971618786&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href = "https://t.me/LuizClaudioVasconcellos"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
+- Desenvolvedor Back-End com experiência em Front-End.
+- 3 anos de experiência em desenvolvimento web.
+- Apaixonado por tecnologia e aprendizado contínuo.
 
-### 💻🚀 Tecnologias e Ferramentas
+## 🚀 Minha Stack
+
+Atualmente, estou trabalhando com as seguintes tecnologias:
+
+- Back-End: Node.js, JavaScript, TypeScript
+- Front-End: HTML5, CSS3, React
+
+## 📫 Entre em Contato
+
+Fique à vontade para entrar em contato comigo:
+
+- LinkedIn: [Luiz Claudio Vasconcellos](https://www.linkedin.com/in/luiz-claudio-vasconcellos)
+- Email: [luizvasconcellosjunior@gmail.com](mailto:luizvasconcellosjunior@gmail.com)
+- WhatsApp: [+971618786](https://api.whatsapp.com/send/?phone=971618786&text&app_absent=0)
+- Telegram: [LuizClaudioVasconcellos](https://t.me/LuizClaudioVasconcellos)
+
+## 💻 Tecnologias e Ferramentas
+
+Trabalho com uma variedade de tecnologias e ferramentas, incluindo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -28,16 +42,13 @@ Sou desenvolvedor Back-End, mas também tenho conhecimento em Front-End. Tenho u
 </div>
 
 
-
-
-### ⚡ Estatísticas GitHub
+## ⚡ Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/LuizClaudioVasconcellos">
+ <a href="https://github.com/LuizClaudioVasconcellos">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizClaudioVasconcellos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizClaudioVasconcellos&layout=compact&langs_count=7&theme=dark"/>
 
    
    
-  ![Snake animation](https://github.com/LuizClaudioVasconcellos/LuizClaudioVasconcellos/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ![Snake animation](https://github.com/LuizClaudioVasconcellos/LuizClaudioVasconcellos/blob/output/github-contribution-grid-snake.svg)</div>
