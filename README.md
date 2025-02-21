@@ -3,7 +3,7 @@
 ## 💼 Sou Desenvolvedor Full Stack
 
 - Desenvolvedor Back-End com experiência em Front-End.
-- 3 anos de experiência em desenvolvimento web.
+- 5 anos de experiência em desenvolvimento web.
 - Apaixonado por tecnologia e aprendizado contínuo.
 
 ## 🚀 Minha Stack
