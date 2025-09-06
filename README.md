@@ -19,7 +19,7 @@ Fique à vontade para entrar em contato comigo:
 
 - LinkedIn: [Luiz Claudio Vasconcellos](https://www.linkedin.com/in/luiz-claudio-vasconcellos)
 - Email: [luizvasconcellosjunior@gmail.com](mailto:luizvasconcellosjunior@gmail.com)
-- WhatsApp: [+971618786](https://api.whatsapp.com/send/?phone=971618786&text&app_absent=0)
+- WhatsApp: [(21) 97161-8786](https://api.whatsapp.com/send/?phone=5521971618786&text&app_absent=0)
 - Telegram: [LuizClaudioVasconcellos](https://t.me/LuizClaudioVasconcellos)
 
 ## 💻 Tecnologias e Ferramentas
